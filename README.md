@@ -11,14 +11,3 @@
 <p align="left">
   💼 Ferramentas: <strong>Visual Studio Code</strong>.
 </p>
-
-<p align="left">
-  💌 Contatos abaixo: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square" logo=Linkedin&logo Color="white" link="https://www.linkedin.com/in/ellenferz/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-squarelabel"Color="DF0174" link="https://www.instagram.com/ellenferz" alt="Instagram"/></a>
-</p>
